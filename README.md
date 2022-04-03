@@ -9,7 +9,4 @@
 ## **My Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aurelien1997&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelien1997&theme=radical)]
-
-layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
