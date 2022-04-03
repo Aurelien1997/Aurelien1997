@@ -1,8 +1,6 @@
 ### Hi there 👋
+Hi there, I'm Vibhor Chaudhary ![image](https://user-images.githubusercontent.com/93325069/161436852-b3ad7649-dffd-403d-93de-567d18232da2.png)
 
-**Aurelien1997/Aurelien1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something really cool 
 - 🌱 I’m currently learning ...
