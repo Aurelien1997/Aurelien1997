@@ -1,4 +1,4 @@
-**Hi there, I'm # Aurelien Ingwen! :wave:**
+#**Hi there, I'm Aurelien Ingwen! :wave:**
 
 
 **About Me**
