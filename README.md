@@ -6,7 +6,7 @@
 🌱I’m a Full stack developer student at The Hacking Project.  
 👨‍💻I am passionate about Web Development & I enjoy learning new things.
 
-##**My Stats**
+## **My Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aurelien1997&theme=radical)
 
