@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-🌱I’m a Full stack developer student at The Hacking Project.  
+🌱I’m a Front End Developer.  
 👨‍💻I am passionate about Web Development & I enjoy learning new things.
 
 ## **My Stats**
